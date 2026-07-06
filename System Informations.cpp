@@ -1,7 +1,6 @@
 #include <windows.h> 
 #include <iostream> 
 #include <dxgi.h> 
-#include "Header.h"
 
 #pragma comment(lib, "dxgi.lib") 
 using namespace std;
